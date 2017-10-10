@@ -1,1 +1,2 @@
 print("Goodnye world")
+print("Goodbye")
